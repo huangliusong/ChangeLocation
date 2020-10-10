@@ -36,3 +36,9 @@ ChangeLocation
 </gpx>
 
 ~~~
+
+
+## location
+~~~
+ <wpt lat="22.5124" lon="113.9371">
+~~~
